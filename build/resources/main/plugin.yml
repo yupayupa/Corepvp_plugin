@@ -1,0 +1,9 @@
+name: scoreboard_plugin
+version: '1.0-SNAPSHOT'
+main: me.haineko12.scoreboard_plugin.Scoreboard_plugin
+api-version: '1.21'
+commands:
+  coreset:
+    default: op
+    usage: "使用方法: /coreset [red|blue] <x><y><z>"
+    description: コアを設定するコマンドです。

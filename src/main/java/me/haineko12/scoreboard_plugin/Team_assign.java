@@ -22,6 +22,7 @@ public final class Team_assign implements Listener {
 
 
 
+    //ゲーム参加時の処理
     @EventHandler
     public void onPlayerChangeWorld(PlayerChangedWorldEvent event){
         Player player = event.getPlayer();
@@ -44,8 +45,7 @@ public final class Team_assign implements Listener {
             }
         }
 
-
-
+        //まだ参加していない場合の処理
         if(player_team == null){
             if(toWorld.getName().equals("world_corepvp")) {
                 red_size = red_team.getSize();

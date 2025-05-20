@@ -131,6 +131,7 @@ public final class Scoreboard_plugin extends JavaPlugin implements Listener {
 
 
 
+    //コア位置代入
     public void setRedCoreLocation(Location location){
         this.redCoreLocation = location;
     }

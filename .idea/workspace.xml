@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="711bee4f-dea6-47fd-bc31-82749c7c36bc" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/haineko12/scoreboard_plugin/Armor_manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/haineko12/scoreboard_plugin/Player_Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/haineko12/scoreboard_plugin/Team_assign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/haineko12/scoreboard_plugin/Point_operate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/haineko12/scoreboard_plugin/Point_operate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/haineko12/scoreboard_plugin/Scoreboard_plugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/haineko12/scoreboard_plugin/Scoreboard_plugin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/scoreboard_plugin-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Coreset.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Scoreboard_plugin.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/haineko12/scoreboard_plugin/Game_finish.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/haineko12/scoreboard_plugin/Scoreboard_plugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/haineko12/scoreboard_plugin/Scoreboard_plugin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
